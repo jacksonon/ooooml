@@ -28,7 +28,6 @@
 		140CA9422692E06C00196E43 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		140CA9482692E6C200196E43 /* YOLOv3Int8LUT.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = YOLOv3Int8LUT.mlmodel; sourceTree = "<group>"; };
 		140CA94A2692F10900196E43 /* VisionObjectRecognitionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisionObjectRecognitionViewController.swift; sourceTree = "<group>"; };
-		140CA94C2692FFDC00196E43 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,7 +69,6 @@
 				140CA93F2692E06C00196E43 /* LaunchScreen.storyboard */,
 				140CA9422692E06C00196E43 /* Info.plist */,
 				140CA94A2692F10900196E43 /* VisionObjectRecognitionViewController.swift */,
-				140CA94C2692FFDC00196E43 /* README.md */,
 			);
 			path = ooooml;
 			sourceTree = "<group>";
